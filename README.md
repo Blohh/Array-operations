@@ -1,2 +1,2 @@
-# zadanie_laborki_pp
+# Array operations
 Operacje na tablicach
